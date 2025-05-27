@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently study on **Full Stack Java**
 
-- 💬 Ask me about **Java And Wedsite Developer**
+- 💬 Ask me about **Java And Website Developer**
 
 - 📫 How to reach me **p4xpunagre@gmail.com**
 
