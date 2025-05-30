@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youbtech01&label=Profile%20views&color=0e75b6&style=flat" alt="youbtech01" /> </p>
 
-- 🔭 I’m currently study on **Full Stack Java**
+- 🔭 I’m currently study on **Masters of Computer Application**
 
-- 💬 Ask me about **Java And Website Developer**
+- 💬 Ask me about **Apps And Website Developer**
 
 - 📫 How to reach me **p4xpunagre@gmail.com**
 
