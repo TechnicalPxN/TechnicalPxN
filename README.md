@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **p4xpunagre@gmail.com**
 
-- ⚡ Fun fact **i'm funny**
+- ⚡ Fun fact **i'm Good Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
